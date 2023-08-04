@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Patelskeep/static/css/main.3db2e1e7.css",
+    "main.js": "/Patelskeep/static/js/main.38699b85.js",
+    "index.html": "/Patelskeep/index.html",
+    "main.3db2e1e7.css.map": "/Patelskeep/static/css/main.3db2e1e7.css.map",
+    "main.38699b85.js.map": "/Patelskeep/static/js/main.38699b85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db2e1e7.css",
+    "static/js/main.38699b85.js"
+  ]
+}
